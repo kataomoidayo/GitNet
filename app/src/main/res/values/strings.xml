@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">GitNet</string>
+    <string name="splash_image">Splash Image</string>
+    <string name="avatar">Avatar</string>
+    <string name="username">Username</string>
+    <string name="name">Name</string>
+    <string name="user_info">User Info</string>
+    <string name="search_hint">Search Username</string>
+    <string name="repository_counter">1234</string>
+    <string name="repository_amount">Repository</string>
+    <string name="followers_counter">1234</string>
+    <string name="followers_amount">Followers</string>
+    <string name="following_counter">1234</string>
+    <string name="following_amount">Following</string>
+    <string name="profile_link">https://github.com/kataomoidayo</string>
+    <string name="bio">Bio</string>
+    <string name="company">My Company</string>
+    <string name="profile_tab">This is tab</string>
+    <string name="followers_tab">Followers</string>
+    <string name="following_tab">Following</string>
+    <string name="favorite">Favorite</string>
+    <string name="favorite_menu">Favorite</string>
+    <string name="settings_menu">Settings</string>
+    <string name="share_menu">Share</string>
+    <string name="dark_mode">Dark Mode</string>
+</resources>
